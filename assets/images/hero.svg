@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <rect width="400" height="300" fill="#f8f9fa" rx="16"/>
+  <circle cx="200" cy="120" r="60" fill="#198754" opacity="0.15"/>
+  <circle cx="200" cy="120" r="40" fill="#198754" opacity="0.25"/>
+  <circle cx="200" cy="120" r="20" fill="#198754" opacity="0.5"/>
+  <path d="M160 120 L180 100 L200 120 L220 100 L240 120 L220 140 L200 120 L180 140 Z" fill="#198754"/>
+  <text x="200" y="220" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#198754" text-anchor="middle">MediDonate</text>
+  <text x="200" y="250" font-family="Arial, sans-serif" font-size="14" fill="#6c757d" text-anchor="middle">Give Unused Medicines a Purpose</text>
+</svg>
